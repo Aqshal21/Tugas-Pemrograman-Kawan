@@ -1,0 +1,5 @@
+{
+ "workbench.iconTheme": "vscode-icons",
+"workbench.colorTheme": "Noctis Minimus",
+"C_Cpp.errorSquiggles": "Disabled",
+}
